@@ -2,7 +2,7 @@
 <h1 align="center"> Hola, Mi nombre es Sebastián! 👋 :computer: </h1>
 
 ```js
-const tomas0011 = {
+const Scerutti = {
   Skills: {
       BackEnd: [
           {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
