@@ -13,7 +13,7 @@ const Scerutti = {
     },
   Proyects: [
       {Dogs Page: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize']},
-      {SalchisWeb: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Mercado Pago']}
+      {Salchistore: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Mercado Pago']}
     ],
   FutureTecnologies: ['PHP', 'Python', 'Java'],
 }
