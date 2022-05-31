@@ -12,11 +12,10 @@ const Scerutti = {
         ]
     },
   Proyects: [
-      {Dogs Page: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']},
-      {BackToThe90s: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']}
+      {Dogs Page: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize']},
+      {SalchisWeb: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Mercado Pago']}
     ],
-  FutureTecnologies: ['PHP', 'Python', 'Java', 'Go', 'Ruby'],
-  Aspirations: ['AI', 'CloudComputing', 'IOT', 'MachineLearning']
+  FutureTecnologies: ['PHP', 'Python', 'Java'],
 }
 ```
 
