@@ -44,6 +44,7 @@ const Scerutti = {
 <h2> Me podes contactar en: </h2>
 
 <p>
+    <h4>Gmail: softsys95@gmail.com </h4>
     <a href="https://www.linkedin.com/in/cerutti-sebastiáng" target:"_blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"/>
     </a>
