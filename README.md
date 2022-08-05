@@ -1,59 +1,35 @@
-![Port](https://www.mastercard.com/news/media/lnhfsjdx/crypto-start-path-banner.png)
-<h1 align="center"> Hola, Mi nombre es Sebastián! 👋 :computer: </h1>
+<h1 align="Center">  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> I'm Sebastián <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="40px"></h1>
 
-```js
-const Scerutti = {
-  Skills: {
-      BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
-        ],
-      FrontEnd: [
-          {JavaScript: ['React', 'React-Native', 'Redux']}
-        ]
-    },
-  Proyects: [
-      {Dogs Page: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize']},
-      {Salchistore: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Mercado Pago']}
-    ],
-  FutureTecnologies: ['PHP', 'Python', 'Java'],
-}
-```
+- 🧔🏻 I'm 26 years old and I'm from Entre Ríos, Argentina.
+- 🎓 I graduated as a Web Development Technician at [Universidad Tecnológica Nacional](https://www.frcu.utn.edu.ar).
+- 🌐 Checkout my [Portfolio](https://sebastiancerutti.tech) to find out more about me and my projects.
+- 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/cerutti-sebastiáng/) or [E-Mail](mailto:softsys95@gmail.com).
 
-<div>
-  <p>
-    ¿Quién soy? 👀 
-    🔸 Desarrollador Full-Stack con orientación al Back-end con capacidad de realizar proyectos web teniendo siempre en mente que 
-      sean escalables y moduralizables para así poder construir en equipo.
-  </p>
-  <p>
-    ¿Por qué yo? 🙇 
-    🔸 Todos los miembros de esta comunidad tenemos excelentes habilidades técnicas, sin embargo conmigo obtendrás un desarrollador 
-    curioso con gran capacidad de resolución de problemas y sobre todo siempre dispuesto a enseñar y aprender de los demás.
-  </p>
-  <p>
-    Mi historia laboral 😉 
-    🔸 Mi experiencia ha sido principalmente en el ámbito académico, durante 3 años me desempeñé como estudiante de ingeniería de 
-    sistemas en donde aprendí fuertes bases en algoritmia y manejo de estructuras de datos
-    🔸 Actualmente me encuentro cursando el bootcamp henry, en donde pude ejercitar mis capacidades técnicas, pero sobretodo mis 
-    capacidades sociales como desarrollador.
-  </p>
-  <strong> Espero que esta breve introduccion demuestre un poco de lo que soy capaz: </strong>
-</div>
-<hr/>
+<br/>
+<br/>
 
-<h2> Me podes contactar en: </h2>
+## 🖥️ Languages and Tools I've worked with:
 
-<p>
-    <h4>Gmail: softsys95@gmail.com </h4>
-    <a href="https://www.linkedin.com/in/cerutti-sebastiáng" target:"_blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"/>
-    </a>
-    <a href="https://portafolio-sebastian-cerutti.netlify.app/" target:"_blank" >
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" height="30" width="30"/>
-    </a>
-    <a href="https://github.com/Scerutti" target:"_blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
-    </a>
-<p/>
+- <h3>👀 Frontend:</h3>
 
-<hr/>
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60">](https://www.w3.org/html/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60">](https://www.w3schools.com/css/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="60">](https://es.reactjs.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60">](https://es.redux.js.org) | [<img src="https://user-images.githubusercontent.com/58083159/158458074-9f1066f1-45f5-4e2b-9821-ecf363293d6f.png" alt="chakra ui" width="60">](https://chakra-ui.com/) | [<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60">](https://angular.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="60" height="60">](https://ionicframework.com)
+|---|---|---|---|---|---|---|
+
+- <h3>⚙️ Backend:</h3>
+  
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60">](https://nodejs.org) | [<img src="https://user-images.githubusercontent.com/58083159/144481306-e4af20fd-e4be-48dd-9286-2fa1773e6395.png" alt="expressjs" width="60">](https://expressjs.com) | [<img src="https://user-images.githubusercontent.com/58083159/144489604-151843e5-4b60-4ca7-b593-8992e23674e3.png" alt="mongoose" width="60">](https://mongoosejs.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="mongoose" width="60">](https://sequelize.org)
+|---|---|---|---|
+- <h3>🛢 Databases:</h3>
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="60" height="60">](https://www.postgresql.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60">](https://www.mongodb.com/)
+|---|---|
+
+- <h3>👨‍💻 Programming Languages:</h3>
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60">](https://www.w3schools.com/js/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60">](https://www.typescriptlang.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60">](https://www.java.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="c++" width="60" height="60">](https://docs.microsoft.com/en-us/cpp/?view=msvc-170) | [<img src="https://user-images.githubusercontent.com/58083159/144480051-5950e74c-175c-4acf-ad15-e4aaef08d355.png" alt="c sharp" width="60">](https://docs.microsoft.com/en-us/dotnet/csharp/)
+|---|---|---|---|---|
+
+- <h3>🛠️ Other Tools:</h3>
+
+| [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60">](https://git-scm.com/) | [<img src="https://user-images.githubusercontent.com/58083159/158461958-394d5b81-72e1-4cae-8c1e-53f355451030.png" alt="npm" width="60">](https://www.npmjs.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="60">](https://slack.com/intl/es-ar/) | [<img src="https://user-images.githubusercontent.com/58083159/158458696-bbba3311-5c42-46a4-a4f8-4af3f4e6bcbe.svg" alt="trello" width="60" height="60">](https://trello.com/)
+|---|---|---|---|
