@@ -17,11 +17,11 @@
 
 - <h3>⚙️ Backend:</h3>
   
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60">](https://nodejs.org) | [<img src="https://user-images.githubusercontent.com/58083159/144481306-e4af20fd-e4be-48dd-9286-2fa1773e6395.png" alt="expressjs" width="60">](https://expressjs.com) | [<img src="https://user-images.githubusercontent.com/58083159/144489604-151843e5-4b60-4ca7-b593-8992e23674e3.png" alt="mongoose" width="60">](https://mongoosejs.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="mongoose" width="60">](https://sequelize.org)
-|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60">](https://nodejs.org) | [<img src="https://user-images.githubusercontent.com/58083159/144481306-e4af20fd-e4be-48dd-9286-2fa1773e6395.png" alt="expressjs" width="60">](https://expressjs.com) | [<img src="https://user-images.githubusercontent.com/58083159/144489604-151843e5-4b60-4ca7-b593-8992e23674e3.png" alt="mongoose" width="60">](https://mongoosejs.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="mongoose" width="60">](https://sequelize.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="nestjs" width="60">](https://sequelize.org)
+|---|---|---|---|--|
 - <h3>🛢 Databases:</h3>
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="60" height="60">](https://www.postgresql.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60">](https://www.mongodb.com/)
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="60" height="60">](https://www.postgresql.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="mongodb" width="60" height="60">](https://nestjs.com)
 |---|---|
 
 - <h3>👨‍💻 Programming Languages:</h3>
