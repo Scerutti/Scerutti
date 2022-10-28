@@ -26,8 +26,8 @@
 
 - <h3>👨‍💻 Programming Languages:</h3>
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60">](https://www.w3schools.com/js/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60">](https://www.typescriptlang.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60">](https://www.java.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="c++" width="60" height="60">](https://docs.microsoft.com/en-us/cpp/?view=msvc-170) | [<img src="https://user-images.githubusercontent.com/58083159/144480051-5950e74c-175c-4acf-ad15-e4aaef08d355.png" alt="c sharp" width="60">](https://docs.microsoft.com/en-us/dotnet/csharp/)
-|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60">](https://www.w3schools.com/js/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60">](https://www.typescriptlang.org) 
+|---|---|
 
 - <h3>🛠️ Other Tools:</h3>
 
