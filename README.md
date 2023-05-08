@@ -12,8 +12,8 @@
 
 - <h3>👀 Frontend:</h3>
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60">](https://www.w3.org/html/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60">](https://www.w3schools.com/css/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="60">](https://es.reactjs.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60">](https://es.redux.js.org) | [<img src="https://user-images.githubusercontent.com/58083159/158458074-9f1066f1-45f5-4e2b-9821-ecf363293d6f.png" alt="chakra ui" width="60">](https://chakra-ui.com/) | [<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60">](https://angular.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="60" height="60">](https://ionicframework.com)
-|---|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60">](https://www.w3.org/html/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60">](https://www.w3schools.com/css/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="60">](https://es.reactjs.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60">](https://es.redux.js.org) | [<img src="https://user-images.githubusercontent.com/58083159/158458074-9f1066f1-45f5-4e2b-9821-ecf363293d6f.png" alt="chakra ui" width="60">](https://chakra-ui.com/)
+|---|---|---|---|---|
 
 - <h3>⚙️ Backend:</h3>
   
