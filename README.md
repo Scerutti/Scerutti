@@ -55,7 +55,7 @@ I am a passionate and dedicated full-stack developer based in Argentina. With a 
 
   ### Badges
   <b>My GitHub Stats</b>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 22px;">
     <a href="http://www.github.com/scerutti">
       <img src="https://github-readme-stats.vercel.app/api?username=scerutti&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="scerutti's GitHub stats" />
     </a>
