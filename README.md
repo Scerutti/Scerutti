@@ -56,7 +56,7 @@ I am a passionate and dedicated full-stack developer based in Argentina. With a 
   ### Badges
   <b>My GitHub Stats</b></br>
     ![Seba's GitHub stats](https://github-readme-stats.vercel.app/api?username=scerutti&show_icons=true&theme=radical) &nbsp; 
-    ![Seba's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scerutti&langs_count=5&&theme=radical)
+    ![Seba's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scerutti&langs_count=3&&theme=radical)
     <span style="display: inline-block; width: 2em;"></span>
     ![Seba's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=scerutti&theme=radical)
 
