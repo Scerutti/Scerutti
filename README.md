@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Sebastián  and I'm a Full Stack Developer, from Argentina 🇦🇷</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Actualmente Full-Stack Developer en Proguide, contribuyendo con soluciones innovadoras en proyectos de IA y aplicaciones web.<br>Experiencia en React, Next.js, Node.js, TypeScript, NestJS y MongoDB.<br>Mentor y tutor en desarrollo web, ayudando a estudiantes a alcanzar sus metas.<br><br>📂 Proyectos destacados:<br><br>Funciones Básicas: Librería npm con utilidades en TypeScript.<br>Auth Login: Sistema de autenticación robusto.<br>Task-List App: Herramienta para organizar tareas con Redux y TypeScript.<br><br>💡 Siempre aprendiendo, experimentando y buscando mejorar. Si tienes un proyecto emocionante, ¡charlemos! 😊</p>
+<p align="left">Currently Full-Stack Developer at Proguide, contributing with innovative solutions in AI projects and web applications.<br>Experience in React, Next.js, Node.js, TypeScript, NestJS and MongoDB.<br>Mentor and tutor in web development, helping students to reach their goals.<br><br>📂 Featured Projects:<br><br>Basic Functions: npm library with TypeScript utilities.<br>Auth Login: Robust authentication system.<br>Task-List App: Tool to organize tasks with Redux and TypeScript.<br><br>💡 Always learning, experimenting and looking to improve. If you have an exciting project, let's chat! 😊</p>
 
 ###
 
@@ -53,10 +53,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/scerutti/scerutti/output/snake.svg" alt="Snake animation" />
 
 ###
 
